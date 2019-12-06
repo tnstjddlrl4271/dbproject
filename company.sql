@@ -7,3 +7,5 @@ create table dept(
 	name varchar(10),
 	chief varchar(10)
 );
+insert into dept values(001, 권순성, 몰라);
+
