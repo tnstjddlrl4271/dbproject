@@ -11,4 +11,6 @@ insert into dept values(001, 권순성, 몰라);
 
 insert into dept values(002, ddd, ddd);
 insert into dept values(003, dfd, fdf);
+insert into dept values(004, dfs, sdf);
 
+select * from dept;
